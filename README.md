@@ -1,4 +1,4 @@
-# minimalist-multi-shooter
+# Minimalist Multiplayer Shooter
 
 This project constitutes the first experiment at creating a simple networked multiplayer game using the TCP protocol. The two players can move and fire projectiles, if one is hit by the other, their outline will turn white.
 
