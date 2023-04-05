@@ -37,6 +37,10 @@ git clone https://github.com/whazami/minimalist-multi-shooter.git
 * Launch the program a second time, but this time choose client by pressing `c`.
 * The game should start, you can now focus one of the two SFML windows and control your player with these commands:
 
+<div align="center">
+
 | Move           | Rotate             | Fire       |
 | :------------: | :----------------: | :--------: |
 | WASD/ZQSD keys | Move mouse pointer | Left click |
+
+</div>
