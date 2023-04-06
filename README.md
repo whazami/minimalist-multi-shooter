@@ -35,7 +35,7 @@ git clone https://github.com/whazami/minimalist-multi-shooter.git
 * Assign the value of the `IP` constant on line 4 of `main.cpp` to your ip address.
 * Once you build and launch the program, you will be asked to choose between server and client, press `s` to choose server.
 * Launch the program a second time, but this time choose client by pressing `c`.
-* The game should start, you can now focus one of the two SFML windows and control your player with these commands:
+* The game should start, you can now focus one of the two SFML windows and control your player (the blue one) with these commands:
 
 <div align="center">
 
