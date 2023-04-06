@@ -44,3 +44,7 @@ git clone https://github.com/whazami/minimalist-multi-shooter.git
 | WASD/ZQSD keys | Move mouse pointer | Left click |
 
 </div>
+
+## License
+
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
